@@ -1,0 +1,2830 @@
+
+#õ
+	/host:CPUõ ÅĞ ÅĞ"+õ ÅĞTFE_DeleteTensorHandleHÀÀ½íPÀÃ“"*õ ÅĞTFE_DeleteTensorHandleH€çÿPÀ„="*õ ÅĞTFE_DeleteTensorHandleHÀëÌÿPÀ„="*õ ÅĞTFE_DeleteTensorHandleH€ğ‰€P€‰z"*õ ÅĞTFE_DeleteTensorHandleHÀ„èP€‰z".õ ÅĞTFE_Py_FastPathExecute_CH€ÖÉ³P€Ì×Ø"2õ ÅĞEagerExecute: DeleteIteratorH€¹¾šPÀÀ½í"7õ ÅĞ!EagerLocalExecute: DeleteIteratorHÀÆõ›PÀ®Éë"1õ ÅĞValidateInputTypeAndPlacementH€¾’¶P€‰z"(õ ÅĞEagerKernelExecuteHÀÔÃ¸PÀ—Î"_õ ÅĞDeleteIteratorHÀ¤òşP€¨§„Z
+is_eager1Z*
+	long_nameDeleteIterator:DeleteIterator"+õ ÅĞTFE_DeleteTensorHandleHÀìÛ¡*PÀùï"+õ ÅĞTFE_DeleteTensorHandleHÀó‚°*PÀ·")õ ÅĞconvert_to_tensorHÀ¸ùİ P€Äá
+"#õ ÅĞtf.constantHÀ†ùÉâ P€ÎäÍ")õ ÅĞconvert_to_tensorH€ÿğüç P€ÌšÕ"#õ ÅĞtf.constantH€×â“è P€É™¬"(õ ÅĞconvert_to_tensorH€“ÜÙë P€Š¨7""õ ÅĞtf.constantH€–İ‚ì P€ÚÄ	"0õ ÅĞTFE_Py_FastPathExecute_CHÀúœì P€¶îù"2õ ÅĞEagerExecute: RandomUniformH€úÉÃì PÀàİv"7õ ÅĞ EagerLocalExecute: RandomUniformH€Œ¾Åì P€Ê¬t"3õ ÅĞValidateInputTypeAndPlacementH€°¦Éì PÀ„=")õ ÅĞEagerKernelExecuteH€ÂšËì P€‹Öm"]õ ÅĞRandomUniformH€“åÓì PÀ‘æ`Z
+is_eager1Z(
+	long_nameRandomUniform:RandomUniform"/õ ÅĞTFE_Py_FastPathExecute_CH€Íù²î PÀÇÂf"(õ ÅĞEagerExecute: SubHÀóËÄî PÀØ"-õ ÅĞEagerLocalExecute: SubHÀüÅÅî P€¡"/õ ÅĞValidateInputTypeAndPlacementH€œñÈî ")õ ÅĞEagerKernelExecuteH€¥ëÉî PÀçû
+"?õ ÅĞSubHÀ»œÌî PÀÃ“Z
+	long_nameSub:SubZ
+is_eager1"/õ ÅĞTFE_Py_FastPathExecute_CH€‘­Ïï PÀ¼õr"(õ ÅĞEagerExecute: MulH€‡êï P€ªêU"-õ ÅĞEagerLocalExecute: MulHÀš¾ëï P€˜öS"3õ ÅĞValidateInputTypeAndPlacementH€Ìİğï P€‰z")õ ÅĞEagerKernelExecuteH€ğÅôï P€¾±J"?õ ÅĞMulH€¦¢úï PÀñ£BZ
+is_eager1Z
+	long_nameMul:Mul"-õ ÅĞTFE_DeleteTensorHandleH€öÇÆğ PÀ·"/õ ÅĞTFE_Py_FastPathExecute_CHÀ°áÌğ P€ø³5"(õ ÅĞEagerExecute: AddHÀø±Ôğ PÀ™²+"-õ ÅĞEagerLocalExecute: AddH€ıîÔğ P€•õ*"/õ ÅĞValidateInputTypeAndPlacementH€ãÖğ ")õ ÅĞEagerKernelExecuteHÀ“ ×ğ PÀÚÛ$"?õ ÅĞAddHÀ¥”Ùğ P€²¶ Z
+is_eager1Z
+	long_nameAdd:Add"-õ ÅĞTFE_DeleteTensorHandleH€¶Ìƒñ P€¤è"-õ ÅĞTFE_DeleteTensorHandleH€ã®ˆñ P€’ô"-õ ÅĞTFE_DeleteTensorHandleHÀ’ûšñ PÀ·",õ ÅĞTFE_DeleteTensorHandleHÀ¤ïœñ PÀ„="(õ ÅĞTFE_DeleteTensorHandleH€©¬ñ "(õ ÅĞconvert_to_tensorH€è£ò P€ÈĞ"/õ ÅĞTFE_Py_FastPathExecute_CH€õÊò P€ÔË1"0õ ÅĞEagerExecute: VarHandleOpHÀªúèò PÀØ"5õ ÅĞEagerLocalExecute: VarHandleOpHÀ³ôéò PÀ”Ş"/õ ÅĞValidateInputTypeAndPlacementHÀ×Üíò ")õ ÅĞEagerKernelExecuteHÀàÖîò P€ã¾
+"Wõ ÅĞVarHandleOpHÀòÊğò P€¶ÜZ$
+	long_nameVarHandleOp:VarHandleOpZ
+is_eager1"/õ ÅĞTFE_Py_FastPathExecute_CH€ı‰Ãó PÀ¤ÿ"5õ ÅĞEagerExecute: AssignVariableOpHÀíÿÎó P€«":õ ÅĞ#EagerLocalExecute: AssignVariableOpH€ò¼Ïó P€¢•"/õ ÅĞValidateInputTypeAndPlacementHÀˆîÑó ")õ ÅĞEagerKernelExecuteH€«Òó P€‡§"fõ ÅĞAssignVariableOpHÀšâÓó PÀğõZ
+is_eager1Z.
+	long_name!AssignVariableOp:AssignVariableOp"-õ ÅĞTFE_DeleteTensorHandleHÀºõ¼ü PÀ·""õ ÅĞtf.constantH€Ø‰ı PÀ€—""õ ÅĞtf.constantH€Ó‚¬ı PÀº™"/õ ÅĞTFE_Py_FastPathExecute_CH€Èµ¸ı P€Î")õ ÅĞEagerExecute: FillH€ÏÜÆı PÀùï".õ ÅĞEagerLocalExecute: FillH€ØÖÇı P€ì¸"3õ ÅĞValidateInputTypeAndPlacementH€óÄÊı PÀ„=")õ ÅĞEagerKernelExecuteH€ü¾Ëı P€ÈĞ"Bõ ÅĞFillHÀ’ğÍı P€¤èZ
+	long_name	Fill:FillZ
+is_eager1"(õ ÅĞTFE_DeleteTensorHandleH€ññ×ı ",õ ÅĞTFE_DeleteTensorHandleH€ÔÜı P€‰z"(õ ÅĞconvert_to_tensorHÀàÂ§ş P€›î"/õ ÅĞTFE_Py_FastPathExecute_CH€ì¦¶ş P€áë"0õ ÅĞEagerExecute: VarHandleOpHÀ÷ŠÅş PÀÌ"5õ ÅĞEagerLocalExecute: VarHandleOpH€üÇÅş P€ÈĞ")õ ÅĞEagerKernelExecuteHÀ‰ÿÆş PÀº™"/õ ÅĞValidateInputTypeAndPlacementHÀ‰ÿÆş "Wõ ÅĞVarHandleOpHÀ’ùÇş P€¤èZ$
+	long_nameVarHandleOp:VarHandleOpZ
+is_eager1"/õ ÅĞTFE_Py_FastPathExecute_CH€íÔìş PÀå¨"5õ ÅĞEagerExecute: AssignVariableOpH€Ç™öş PÀ‚ê":õ ÅĞ#EagerLocalExecute: AssignVariableOpH€Ç™öş PÀ‚ê"3õ ÅĞValidateInputTypeAndPlacementH€Ğ“÷ş PÀ„=")õ ÅĞEagerKernelExecuteHÀÔĞ÷ş PÀğõ"fõ ÅĞAssignVariableOpHÀİÊøş P€ã¾
+Z
+is_eager1Z.
+	long_name!AssignVariableOp:AssignVariableOp",õ ÅĞTFE_DeleteTensorHandleHÀàË¡ÿ PÀ„="0õ ÅĞTFE_Py_FastPathExecute_CH€°«ˆ¡PÀ°Â™"7õ ÅĞEagerExecute: DestroyResourceOpHÀáå‹¡P€¿ƒé"<õ ÅĞ$EagerLocalExecute: DestroyResourceOpH€ïœ’‹¡PÀ¨Òæ"3õ ÅĞValidateInputTypeAndPlacementH€Œ‹ê¡P€‰z")õ ÅĞEagerKernelExecuteHÀ¢¼ì¡PÀğõ"iõ ÅĞDestroyResourceOpH€Âçï¡PÀÃ“Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"-õ ÅĞTFE_DeleteTensorHandleHÀî»Ó¡P€’ô"/õ ÅĞTFE_Py_FastPathExecute_CHÀ©ìô¡P€ Â"6õ ÅĞEagerExecute: DestroyResourceOpHÀİõ‡‘¡P€ã¾
+";õ ÅĞ$EagerLocalExecute: DestroyResourceOpHÀæïˆ‘¡P€ÚÄ	"3õ ÅĞValidateInputTypeAndPlacementHÀŞ‹‘¡PÀ„=")õ ÅĞEagerKernelExecuteHÀŠØŒ‘¡PÀ±Ÿ"iõ ÅĞDestroyResourceOpHÀœÌ‘¡P€›îZ0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1",õ ÅĞTFE_DeleteTensorHandleHÀšù›‘¡P€‰z"/õ ÅĞTFE_Py_FastPathExecute_CH€„´Òœ¡PÀŠ¿R"1õ ÅĞEagerExecute: ModelDatasetH€¿äóœ¡PÀ½š/"6õ ÅĞEagerLocalExecute: ModelDatasetH€ÈŞôœ¡PÀ´ ."3õ ÅĞValidateInputTypeAndPlacementHÀÑï¡PÀ„=")õ ÅĞEagerKernelExecuteHÀÚé‘¡P€ş¬"Zõ ÅĞModelDatasetH€ñš”¡PÀÕ‡	Z
+is_eager1Z&
+	long_nameModelDataset:ModelDataset"(õ ÅĞconvert_to_tensorH€Áš¥§¡P€ï+""õ ÅĞtf.constantH€ã¯¶§¡P€Æı",õ ÅĞTFE_DeleteTensorHandleHÀ’üÈ§¡PÀ„="(õ ÅĞconvert_to_tensorHÀõºÓ§¡P€‡§""õ ÅĞtf.constantH€¹ÎÚ§¡P€­â",õ ÅĞTFE_DeleteTensorHandleH€İ¶Ş§¡PÀ„="(õ ÅĞconvert_to_tensorHÀÖã§¡PÀ‚ê""õ ÅĞtf.constantH€Àõè§¡P€¶Ü"(õ ÅĞTFE_DeleteTensorHandleHÀñ”î§¡"1õ ÅĞTFE_Py_FastPathExecute_CH€³Õ‚¨¡P€Üñ¹"8õ ÅĞEagerExecute: OptimizeDatasetV2H€»›¨¡PÀúĞÔ¹"=õ ÅĞ$EagerLocalExecute: OptimizeDatasetV2H€¦µœ¨¡PÀñÖÓ¹"/õ ÅĞValidateInputTypeAndPlacementHÀÊ´»¨¡"+õ ÅĞEagerKernelExecuteH€Ïñ»¨¡P€ó’«¹"kõ ÅĞOptimizeDatasetV2H€áå½¨¡PÀÊí¦¹Z
+is_eager1Z0
+	long_name#OptimizeDatasetV2:OptimizeDatasetV2"Fõ ÅĞExecutorState::ProcessHÀ¢‹‘ˆ¦PÀ«¦-Z
+iter_num0Z
+id-1"Fõ ÅĞExecutorState::ProcessHÀÏí•ˆ¦P€õ²Z
+id-1Z
+iter_num0"Zõ ÅĞPlaceholderH€İ¤—ˆ¦P€ÈĞZ
+is_eager0Z'
+	long_namePlaceholder/_0:Placeholder"Fõ ÅĞExecutorState::ProcessH€Éİ¢ˆ¦PÀ–±Z
+id-1Z
+iter_num0"Yõ ÅĞPlaceholderHÀÍš£ˆ¦P€‰zZ'
+	long_namePlaceholder/_1:PlaceholderZ
+is_eager0"Fõ ÅĞExecutorState::ProcessH€äË¥ˆ¦PÀ”ŞZ
+id-1Z
+iter_num0",õ ÅĞ_send_Const/_6_0:_SendH€ëò³ˆ¦P€‰z"Eõ ÅĞExecutorState::ProcessHÀø©µˆ¦P€‰zZ
+id-1Z
+iter_num0",õ ÅĞ_send_Const/_9_0:_SendH€ıæµˆ¦PÀ„="Eõ ÅĞExecutorState::ProcessHÀ¤¶ˆ¦P€‰zZ
+id-1Z
+iter_num0",õ ÅĞ_send_Const/_5_0:_SendH€†á¶ˆ¦PÀ„="Eõ ÅĞExecutorState::ProcessH€Û·ˆ¦PÀ„=Z
+iter_num0Z
+id-1"(õ ÅĞ_send_Const/_8_0:_SendHÀ“˜¸ˆ¦"Eõ ÅĞExecutorState::ProcessH€˜Õ¸ˆ¦P€‰zZ
+iter_num0Z
+id-1"(õ ÅĞ_send_Const/_4_0:_SendHÀœ’¹ˆ¦"Eõ ÅĞExecutorState::ProcessH€¡Ï¹ˆ¦P€‰zZ
+id-1Z
+iter_num0",õ ÅĞ_send_Const/_3_0:_SendHÀ¥Œºˆ¦PÀ„="Eõ ÅĞExecutorState::ProcessH€ªÉºˆ¦P€‰zZ
+id-1Z
+iter_num0"-õ ÅĞ_send_Const/_12_0:_SendHÀ®†»ˆ¦PÀ„=")õ ÅĞ_send_Const/_11_0:_SendHÀ·€¼ˆ¦"4õ ÅĞExecutorDoneCallbackH€Å·½ˆ¦P€‰zZ
+id-1"Fõ ÅĞExecutorState::ProcessH€Åí™¦P€ÆıZ
+iter_num0Z
+id-1"Fõ ÅĞExecutorState::ProcessHÀÒ¤›¦PÀÌZ
+id-1Z
+iter_num0"Zõ ÅĞPlaceholderHÀÛœ¦P€­âZ
+is_eager0Z'
+	long_namePlaceholder/_1:Placeholder"Fõ ÅĞExecutorState::ProcessH€Ÿ²£¦PÀ–±Z
+id-1Z
+iter_num0"Yõ ÅĞPlaceholderHÀ£ï£¦P€‰zZ'
+	long_namePlaceholder/_0:PlaceholderZ
+is_eager0"Fõ ÅĞExecutorState::ProcessHÀ¾İ¦¦P€’ôZ
+iter_num0Z
+id-1",õ ÅĞ_send_Const/_3_0:_SendHÀÇ×§¦P€‰z"Eõ ÅĞExecutorState::ProcessHÀĞÑ¨¦P€‰zZ
+id-1Z
+iter_num0"(õ ÅĞ_send_Const/_9_0:_SendH€Õ©¦"Eõ ÅĞExecutorState::ProcessHÀÙË©¦PÀ„=Z
+id-1Z
+iter_num0"(õ ÅĞ_send_Const/_8_0:_SendH€Şˆª¦"Eõ ÅĞExecutorState::ProcessHÀâÅª¦PÀ„=Z
+id-1Z
+iter_num0"Eõ ÅĞExecutorState::ProcessH€ç‚«¦PÀ„=Z
+id-1Z
+iter_num0")õ ÅĞ_send_Const/_12_0:_SendH€ç‚«¦")õ ÅĞ_send_Const/_11_0:_SendHÀë¿«¦",õ ÅĞ_send_Const/_6_0:_SendH€ğü«¦PÀ„="Eõ ÅĞExecutorState::ProcessH€ğü«¦PÀ„=Z
+id-1Z
+iter_num0",õ ÅĞ_send_Const/_5_0:_SendHÀô¹¬¦PÀ„="4õ ÅĞExecutorDoneCallbackH€‚ñ­¦PÀ„=Z
+id-1"Fõ ÅĞExecutorState::ProcessHÀí¡šá¦PÀ‰‘Z
+id-1Z
+iter_num0"Fõ ÅĞExecutorState::ProcessH€ûØ›á¦PÀŸ«Z
+id-1Z
+iter_num0"3õ ÅĞ_recv_Placeholder/_1_0:_RecvHÀˆá¦PÀ·"Fõ ÅĞExecutorState::ProcessHÀš„Ÿá¦P€¶ÜZ
+id-1Z
+iter_num0"3õ ÅĞ_recv_Placeholder/_0_0:_RecvH€ŸÁŸá¦PÀ±Ÿ"Fõ ÅĞExecutorState::ProcessHÀ£şŸá¦P€­âZ
+id-1Z
+iter_num0"oõ ÅĞTensorSliceDatasetH€¨» á¦P€¤èZ
+is_eager0Z5
+	long_name(TensorSliceDataset/_2:TensorSliceDataset"Fõ ÅĞExecutorState::ProcessH€Õ¥á¦P€ÚÄ	Z
+iter_num0Z
+id-1"iõ ÅĞShuffleDatasetV3HÀÙÚ¥á¦P€¿ÖZ1
+	long_name$ShuffleDatasetV3/_7:ShuffleDatasetV3Z
+is_eager0"dõ ÅĞBatchDatasetV2H€î¬á¦P€’ôZ.
+	long_name!BatchDatasetV2/_10:BatchDatasetV2Z
+is_eager0"dõ ÅĞCacheDatasetV2HÀ³Ÿ¯á¦P€’ôZ.
+	long_name!CacheDatasetV2/_13:CacheDatasetV2Z
+is_eager0"‚õ ÅĞMaxIntraOpParallelismDatasetHÀÅ“±á¦PÀ·Z
+is_eager0Z>
+	long_name1intra_op_parallelism:MaxIntraOpParallelismDataset"]õ ÅĞModelDatasetH€ÓÊ²á¦P€‰zZ
+is_eager0Z*
+	long_nameModelDataset/_14:ModelDataset"(õ ÅĞ_send_Sink_0:_SendH€å¾´á¦PÀ„="4õ ÅĞExecutorDoneCallbackH€î¸µá¦PÀ„=Z
+id-1"/õ ÅĞTFE_Py_FastPathExecute_CH€—şÎâ¦PÀõÉ'"8õ ÅĞ!EagerExecute: AnonymousIteratorV2HÀØ¾ãâ¦P€«"=õ ÅĞ&EagerLocalExecute: AnonymousIteratorV2H€İûãâ¦PÀ¦Ò"3õ ÅĞValidateInputTypeAndPlacementH€øéæâ¦PÀ„=")õ ÅĞEagerKernelExecuteH€äçâ¦PÀ‚ê"oõ ÅĞAnonymousIteratorV2H€ŠŞèâ¦P€ì¸Z4
+	long_name'AnonymousIteratorV2:AnonymousIteratorV2Z
+is_eager1"/õ ÅĞTFE_Py_FastPathExecute_CHÀ°°úâ¦P€…Ô"6õ ÅĞEagerLocalExecute: MakeIteratorH€ĞÛıâ¦P€áë"1õ ÅĞEagerExecute: MakeIteratorH€ĞÛıâ¦P€áë"3õ ÅĞValidateInputTypeAndPlacementHÀÔ˜şâ¦PÀ„=")õ ÅĞEagerKernelExecuteH€ÙÕşâ¦PÀÓ´"Zõ ÅĞMakeIteratorHÀİ’ÿâ¦PÀÊºZ&
+	long_nameMakeIterator:MakeIteratorZ
+is_eager1"1õ ÅĞMakeIterator::ModelDatasetHÀø€‚ã¦P€¢•"Aõ ÅĞ*MakeIterator::MaxIntraOpParallelismDatasetH€³šˆã¦P€ã¾
+"3õ ÅĞMakeIterator::CacheDatasetV2H€Îˆ‹ã¦P€ÈĞ"3õ ÅĞMakeIterator::BatchDatasetV2HÀí³ã¦PÀ¨¥"5õ ÅĞMakeIterator::ShuffleDatasetV3H€ûêã¦P€›î"0õ ÅĞTFE_Py_FastPathExecute_CHÀŸê®ã¦PÀà¾â"5õ ÅĞEagerExecute: IteratorGetNextH€ì÷¶ã¦PÀë‹Ö":õ ÅĞ"EagerLocalExecute: IteratorGetNextHÀğ´·ã¦PÀâ‘Õ"/õ ÅĞValidateInputTypeAndPlacementH€õñ·ã¦"*õ ÅĞEagerKernelExecuteHÀù®¸ã¦PÀĞÓ"dõ ÅĞIteratorGetNextH€şë¸ã¦PÀ£»ÎZ,
+	long_nameIteratorGetNext:IteratorGetNextZ
+is_eager1"dõ ÅĞIteratorGetNextOp::DoComputeH€™Ú»ã¦P€„ËZ
+iter_num0Z
+element_size100480Z
+id0"¯õ ÅĞIterator::ModelHÀ¸…¿ã¦PÀ·‚ÃZ
+
+ram_budget0BZ
+shapes[?,784] [?,1]Z
+id8657332102411860804Z
+typesdouble doubleZ
+
+cpu_budget0Z
+	algorithm
+hill climb"ìõ ÅĞIterator::MaxIntraOpParallelismHÀ¿¬Íã¦PÀ°Û´Z
+shapes[?,784] [?,1]Z
+id3181072558322975255Z 
+	parent_id8657332102411860804Z3
+	long_name&Iterator::Model::MaxIntraOpParallelismZ
+typesdouble doubleZ
+parallelism1"Şõ ÅĞIterator::MemoryCacheH€ÄéÍã¦PÀç²Z
+typesdouble doubleZ
+shapes[?,784] [?,1]Z
+id-5062267749171643747Z 
+	parent_id3181072558322975255Z@
+	long_name3Iterator::Model::MaxIntraOpParallelism::MemoryCache"çõ ÅĞIterator::MemoryCacheImplHÀÈ¦Îã¦P€šª²Z
+shapes[?,784] [?,1]Z
+id-1574890832688197434Z!
+	parent_id-5062267749171643747ZD
+	long_name7Iterator::Model::MaxIntraOpParallelism::MemoryCacheImplZ
+typesdouble double"«õ ÅĞIterator::BatchV2H€ÍãÎã¦PÀŒó°Z
+parallel_copyfalseZ
+drop_remainderfalseZ
+
+batch_size16Z
+shapes[?,784] [?,1]Z
+id-1101087496620783914Z!
+	parent_id-1574890832688197434ZM
+	long_name@Iterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2Z
+typesdouble double"€õ ÅĞIterator::ShuffleHÀÑ Ïã¦P€ÓşæZ
+shapes	[784] [1]Z
+id1073099369826740550Z!
+	parent_id-1101087496620783914Z
+buffer_size500ZV
+	long_nameIIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::ShuffleZ
+typesdouble double"7õ ÅĞ MakeIterator::TensorSliceDatasetH€ÖİÏã¦P€’ô"üõ ÅĞIterator::TensorSliceHÀìÒã¦P€’ôZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"üõ ÅĞIterator::TensorSliceH€ƒÀÔã¦P€™›Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€œÛäã¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀ©’æã¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀ²Œçã¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀ»†èã¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀÄ€éã¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀÍúéã¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀÖôêã¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀßîëã¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀèèìã¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀñâíã¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀúÜîã¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€ˆ”ğã¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€‘ñã¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€šˆòã¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€£‚óã¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€¬üóã¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀ¹³õã¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀÂ­öã¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀË§÷ã¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀÔ¡øã¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀİ›ùã¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀæ•úã¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀïûã¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀø‰üã¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€†Áıã¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€»şã¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€˜µÿã¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€¡¯€ä¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€ª©ä¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€³£‚ä¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€¼ƒä¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€Å—„ä¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€Î‘…ä¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€×‹†ä¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€à…‡ä¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀäÂ‡ä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀí¼ˆä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€ûó‰ä¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€„îŠä¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"üõ ÅĞIterator::TensorSliceH€è‹ä¦PÀùïZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀ†Ø˜ä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀÒ™ä¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀ˜Ìšä¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀ¡Æ›ä¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀªÀœä¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀ³ºä¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€¸÷ä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€Áñä¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ÊëŸä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€Óå ä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€Üß¡ä¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€åÙ¢ä¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€îÓ£ä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€÷Í¤ä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€€È¥ä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€‰Â¦ä¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€’¼§ä¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€›¶¨ä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€¤°©ä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€­ªªä¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€¶¤«ä¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€¿¬ä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€È˜­ä¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€Ñ’®ä¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€ÚŒ¯ä¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀŞÉ¯ä¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀçÃ°ä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀğ½±ä¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀù·²ä¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀ‚²³ä¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€‡ï³ä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€é´ä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€™ãµä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€¢İ¶ä¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€«×·ä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€´Ñ¸ä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€½Ë¹ä¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ÆÅºä¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€Ï¿»ä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€Ø¹¼ä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€á³½ä¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€ê­¾ä¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€ó§¿ä¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€ü¡Àä¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€…œÁä¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€–Âä¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€—Ãä¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€ ŠÄä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€©„Åä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€²şÅä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€»øÆä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€ÄòÇä¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€ÍìÈä¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€ÖæÉä¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ßàÊä¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀãËä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€ñÔÌä¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€úÎÍä¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀş‹Îä¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀ‡†Ïä¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀ€Ğä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀ™úĞä¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀ¢ôÑä¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀ«îÒä¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀ´èÓä¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀ½âÔä¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€ÂŸÕä¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€Ë™Öä¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€Ô“×ä¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€İØä¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€æ‡Ùä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€ïÚä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€øûÚä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€öÛä¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ŠğÜä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€“êİä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€œäŞä¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€¥Şßä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€®Øàä¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€·Òáä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€ÀÌâä¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€ÉÆãä¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€ÒÀää¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€Ûºåä¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀß÷åä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€í®çä¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀñëçä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀúåèä¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀƒàéä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀŒÚêä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀ•Ôëä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀÎìä¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀ§Èíä¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀ°Âîä¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀ¹¼ïä¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀÂ¶ğä¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀË°ñä¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀÔªòä¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€Ùçòä¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€âáóä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€ëÛôä¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€ôÕõä¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ıÏöä¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€†Ê÷ä¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€Äøä¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€˜¾ùä¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€¡¸úä¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€ª²ûä¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€³¬üä¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€¼¦ıä¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€Å şä¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"üõ ÅĞIterator::TensorSliceH€Îšÿä¦P€›îZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€éˆ‚å¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€ò‚ƒå¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€ûüƒå¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€„÷„å¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€ñ…å¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€–ë†å¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€Ÿå‡å¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"üõ ÅĞIterator::TensorSliceH€¨ßˆå¦PÀ·Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ºÓŠå¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€ÃÍ‹å¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€ÌÇŒå¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀĞ„å¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀÙşå¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀâøå¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀëòå¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"üõ ÅĞIterator::TensorSliceHÀôìå¦PÀ·Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀ†á’å¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀÛ“å¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀ˜Õ”å¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€’•å¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€¦Œ–å¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€¯†—å¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€¸€˜å¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"üõ ÅĞIterator::TensorSliceH€Áú˜å¦PÀ·Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€Óîšå¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€Üè›å¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€åâœå¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€îÜå¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€÷Öå¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€€ÑŸå¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀ„ å¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"üõ ÅĞIterator::TensorSliceHÀˆ¡å¦PÀ·Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀŸü¢å¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€¤¹£å¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€­³¤å¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€¶­¥å¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€¿§¦å¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€È¡§å¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€Ñ›¨å¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"üõ ÅĞIterator::TensorSliceH€Ú•©å¦PÀ·Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ì‰«å¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€õƒ¬å¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€şı¬å¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀ‚»­å¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀ‹µ®å¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀ”¯¯å¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀ©°å¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"üõ ÅĞIterator::TensorSliceHÀ¦£±å¦PÀ·Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀ¸—³å¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€½Ô³å¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€ÆÎ´å¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€ÏÈµå¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€ØÂ¶å¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€á¼·å¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€ê¶¸å¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"üõ ÅĞIterator::TensorSliceH€ó°¹å¦PÀ·Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀ€èºå¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀ‰â»å¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ıõ ÅĞIterator::TensorSliceHÀ’Ü¼å¦PÀä•ĞZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"üõ ÅĞIterator::TensorSliceH€€ìè¦PÀ·Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€’àè¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€›Úè¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀ¨‘’è¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀ±‹“è¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀº…”è¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀÃÿ”è¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀÌù•è¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀÕó–è¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀŞí—è¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀçç˜è¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀğá™è¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀùÛšè¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀ‚Ö›è¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀ‹Ğœè¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€™‡è¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀÄè¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀ¦¾Ÿè¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀ¯¸ è¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€½ï¡è¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€Æé¢è¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€Ïã£è¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€Øİ¤è¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€á×¥è¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€êÑ¦è¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€óË§è¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€üÅ¨è¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€…À©è¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€ºªè¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€—´«è¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ ®¬è¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€©¨­è¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€²¢®è¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€»œ¯è¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€Ä–°è¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€Í±è¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ÖŠ²è¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ß„³è¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€èş³è¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€ñø´è¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€úòµè¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€ƒí¶è¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€Œç·è¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€•á¸è¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€Û¹è¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€§Õºè¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€°Ï»è¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€¹É¼è¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€ÂÃ½è¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€Ë½¾è¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€Ô·¿è¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€İ±Àè¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€æ«Áè¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ï¥Âè¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€øŸÃè¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€šÄè¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€Š”Åè¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€“Æè¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€œˆÇè¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€¥‚Èè¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€®üÈè¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€·öÉè¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ÀğÊè¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€ÉêËè¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀÖ¡Íè¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀß›Îè¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀè•Ïè¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀñĞè¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€öÌĞè¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€ÿÆÑè¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€ˆÁÒè¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€‘»Óè¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€šµÔè¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€£¯Õè¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€¬©Öè¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€µ£×è¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€¾Øè¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€Ç—Ùè¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€Ğ‘Úè¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€Ù‹Ûè¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€â…Üè¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€ëÿÜè¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€ôùİè¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ıóŞè¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€†îßè¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€èàè¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀ“¥áè¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀœŸâè¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀ¥™ãè¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀ®“äè¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀ·åè¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀÀ‡æè¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀÉçè¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀÒûçè¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀÛõèè¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀäïéè¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀíéêè¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀöãëè¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀÿİìè¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€„›íè¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€•îè¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€–ïè¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€Ÿ‰ğè¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€¨ƒñè¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€±ıñè¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€º÷òè¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€Ãñóè¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀÇ®ôè¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀĞ¨õè¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀÙ¢öè¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀâœ÷è¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀë–øè¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀôùè¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀıŠúè¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀ†…ûè¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀÿûè¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀ˜ùüè¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€¶ıè¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€¦°şè¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€¯ªÿè¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€¸¤€é¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€Áé¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€Ê˜‚é¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€Ó’ƒé¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€ÜŒ„é¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€å†…é¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€î€†é¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€÷ú†é¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€€õ‡é¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€‰ïˆé¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€’é‰é¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€›ãŠé¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€¤İ‹é¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€­×Œé¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€¶Ñé¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€¿Ëé¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€ÈÅé¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€Ñ¿é¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€Ú¹‘é¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€ã³’é¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ì­“é¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€õ§”é¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ş¡•é¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀ‚ß•é¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀ‹Ù–é¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€™˜é¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€¢Š™é¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€«„šé¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€´şšé¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€½ø›é¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€Æòœé¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€Ïìé¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"üõ ÅĞIterator::TensorSliceH€Øæé¦PÀŸ«Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€üÎ¢é¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€…É£é¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€Ã¤é¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€—½¥é¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ ·¦é¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€©±§é¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€²«¨é¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"üõ ÅĞIterator::TensorSliceH€»¥©é¦P€’ôZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€Í™«é¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€Ö“¬é¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ß­é¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€è‡®é¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€ñ¯é¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€úû¯é¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€ƒö°é¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"üõ ÅĞIterator::TensorSliceH€Œğ±é¦P€’ôZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€ä³é¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€§Ş´é¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€°Øµé¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€¹Ò¶é¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€ÂÌ·é¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€ËÆ¸é¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€ÔÀ¹é¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"üõ ÅĞIterator::TensorSliceH€İººé¦P€’ôZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€ï®¼é¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ø¨½é¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€£¾é¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€Š¿é¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€“—Àé¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€œ‘Áé¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀ©ÈÂé¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"üõ ÅĞIterator::TensorSliceHÀ²ÂÃé¦PÀ·Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀÄ¶Åé¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀÍ°Æé¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀÖªÇé¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀß¤Èé¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀèÉé¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀñ˜Êé¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀú’Ëé¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"üõ ÅĞIterator::TensorSliceHÀƒÌé¦PÀ·Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀ•Îé¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀûÎé¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"üõ ÅĞIterator::TensorSliceHÀ§õÏé¦P€’ôZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀ¹éÑé¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀÂãÒé¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀËİÓé¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀÔ×Ôé¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"üõ ÅĞIterator::TensorSliceHÀİÑÕé¦P€’ôZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀïÅ×é¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀø¿Øé¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀºÙé¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀŠ´Úé¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀ“®Ûé¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀœ¨Üé¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀ¥¢İé¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"üõ ÅĞIterator::TensorSliceHÀ®œŞé¦PÀ·Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ıõ ÅĞIterator::TensorSliceHÀÀàé¦P€»ÔZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"üõ ÅĞIterator::TensorSliceHÀÖÅµì¦P€¿ÖZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"üõ ÅĞIterator::TensorSliceH€šÙ¼ì¦P€’ôZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"üõ ÅĞIterator::TensorSliceHÀ°Š¿ì¦P€¤èZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"üõ ÅĞIterator::TensorSliceHÀÔòÂì¦PÀ–±Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"üõ ÅĞIterator::TensorSliceHÀïàÅì¦PÀ±ŸZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"üõ ÅĞIterator::TensorSliceHÀ¥½Ëì¦PÀ±ŸZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"üõ ÅĞIterator::TensorSliceHÀÛ™Ñì¦P€’ôZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"üõ ÅĞIterator::TensorSliceH€òÊÓì¦P€¤èZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"üõ ÅĞIterator::TensorSliceH€–³×ì¦PÀ¨¥Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"üõ ÅĞIterator::TensorSliceHÀ¾ØÛì¦P€’ôZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"üõ ÅĞIterator::TensorSliceH€Õ‰Şì¦PÀŸ«Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"üõ ÅĞIterator::TensorSliceH€ùñáì¦PÀ–±Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"üõ ÅĞIterator::TensorSliceHÀ£äì¦PÀ¨¥Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"üõ ÅĞIterator::TensorSliceHÀ¼…éì¦PÀŸ«Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"üõ ÅĞIterator::TensorSliceHÀàíìì¦P€’ôZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"üõ ÅĞIterator::TensorSliceH€÷ïì¦P€­âZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"üõ ÅĞIterator::TensorSliceHÀ¨¾ôì¦PÀ¨¥Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"üõ ÅĞIterator::TensorSliceH€Ñãøì¦PÀ–±Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"üõ ÅĞIterator::TensorSliceHÀç”ûì¦P€¶ÜZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"üõ ÅĞIterator::TensorSliceHÀñ€í¦PÀ–±Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"üõ ÅĞIterator::TensorSliceH€´¢ƒí¦P€­âZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"üõ ÅĞIterator::TensorSliceH€á„ˆí¦PÀ¨¥Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"üõ ÅĞIterator::TensorSliceH€çŒí¦PÀÌZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ıõ ÅĞIterator::TensorSliceH€ß±•í¦P€Šº«Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"üõ ÅĞIterator::TensorSliceH€òåÁï¦PÀ¨¥Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"üõ ÅĞIterator::TensorSliceH€ŸÈÆï¦P€’ôZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"üõ ÅĞIterator::TensorSliceHÀµùÈï¦PÀŸ«Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"üõ ÅĞIterator::TensorSliceHÀÙáÌï¦PÀ–±Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ıõ ÅĞIterator::TensorSliceH€ğ’Ïï¦PÀóˆ©Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"üõ ÅĞIterator::TensorSliceHÀì•ùñ¦PÀ¨¥Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ıõ ÅĞIterator::TensorSliceH€•»ıñ¦P€Ù±ÁZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"üõ ÅĞIterator::TensorSliceHÀû£Àô¦PÀ±ŸZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"üõ ÅĞIterator::TensorSliceHÀ±€Æô¦P€¤èZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"üõ ÅĞIterator::TensorSliceH€Ú¥Êô¦PÀŸ«Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"üõ ÅĞIterator::TensorSliceH€şÎô¦P€’ôZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"üõ ÅĞIterator::TensorSliceHÀ”¿Ğô¦P€¤èZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ıõ ÅĞIterator::TensorSliceHÀ¸§Ôô¦PÀÖĞ­Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"üõ ÅĞIterator::TensorSliceHÀœ¯ƒø¦P€ÚÄ	Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"üõ ÅĞIterator::TensorSliceHÀÿíø¦PÀ·Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀ‘âø¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€Ÿ™‘ø¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€¨“’ø¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€±“ø¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€º‡”ø¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€Ã•ø¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€Ìû•ø¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀÙ²—ø¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€Şï—ø¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€çé˜ø¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€ğã™ø¦P€‰zZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceH€ùİšø¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€‚Ø›ø¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€‹Òœø¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€”Ìø¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€Æø¦P€‰zZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceH€¦ÀŸø¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceH€¯º ø¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceH€¸´¡ø¦P€‰zZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀÅë¢ø¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀÎå£ø¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀ×ß¤ø¦PÀ„=Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ûõ ÅĞIterator::TensorSliceHÀàÙ¥ø¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀéÓ¦ø¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀòÍ§ø¦PÀ„=Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ûõ ÅĞIterator::TensorSliceHÀûÇ¨ø¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀ„Â©ø¦PÀ„=Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ûõ ÅĞIterator::TensorSliceHÀ¼ªø¦PÀ„=Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ûõ ÅĞIterator::TensorSliceHÀ–¶«ø¦P€‰zZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"üõ ÅĞIterator::TensorSliceHÀ®¾óú¦P€ÈĞZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"üõ ÅĞIterator::TensorSliceH€Àıú¦P€¤èZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"üõ ÅĞIterator::TensorSliceHÀµåû¦P€’ôZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"üõ ÅĞIterator::TensorSliceH€Ì–„û¦PÀŸ«Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"üõ ÅĞIterator::TensorSliceH€ğş‡û¦PÀŸ«Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"üõ ÅĞIterator::TensorSliceH€”ç‹û¦P€‡§Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"üõ ÅĞIterator::TensorSliceHÀŸËšû¦PÀŸ«Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"üõ ÅĞIterator::TensorSliceHÀÃ³û¦P€’ôZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"üõ ÅĞIterator::TensorSliceH€Úä û¦PÀÁÀZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ÿõ ÅĞIterator::ShuffleHÀ­™·û¦PÀ¨¥Z
+shapes	[784] [1]Z
+id1073099369826740550Z!
+	parent_id-1101087496620783914Z
+buffer_size500ZV
+	long_nameIIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::ShuffleZ
+typesdouble double"üõ ÅĞIterator::TensorSliceH€²Ö·û¦P€¤èZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ÿõ ÅĞIterator::ShuffleHÀÚû»û¦PÀ–±Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id1073099369826740550Z!
+	parent_id-1101087496620783914Z
+buffer_size500ZV
+	long_nameIIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle"üõ ÅĞIterator::TensorSliceH€ß¸¼û¦P€’ôZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ÿõ ÅĞIterator::ShuffleHÀõé¾û¦P€¤èZ
+shapes	[784] [1]Z
+id1073099369826740550Z!
+	parent_id-1101087496620783914Z
+buffer_size500ZV
+	long_nameIIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::ShuffleZ
+typesdouble double"üõ ÅĞIterator::TensorSliceHÀõé¾û¦PÀŸ«Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ÿõ ÅĞIterator::ShuffleHÀ™ÒÂû¦PÀ¨¥Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id1073099369826740550Z!
+	parent_id-1101087496620783914Z
+buffer_size500ZV
+	long_nameIIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle"üõ ÅĞIterator::TensorSliceH€Ãû¦PÀŸ«Z
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"ÿõ ÅĞIterator::ShuffleHÀÆ´Çû¦PÀ–±Z
+buffer_size500ZV
+	long_nameIIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::ShuffleZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id1073099369826740550Z!
+	parent_id-1101087496620783914"üõ ÅĞIterator::TensorSliceHÀÆ´Çû¦PÀ–±Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"üõ ÅĞIterator::TensorSliceH€æßÊû¦P€¤èZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ÿõ ÅĞIterator::ShuffleH€æßÊû¦P€¤èZ
+shapes	[784] [1]Z
+id1073099369826740550Z!
+	parent_id-1101087496620783914Z
+buffer_size500ZV
+	long_nameIIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::ShuffleZ
+typesdouble double"ÿõ ÅĞIterator::ShuffleHÀ…Ïû¦PÀ–±Z
+buffer_size500ZV
+	long_nameIIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::ShuffleZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id1073099369826740550Z!
+	parent_id-1101087496620783914"üõ ÅĞIterator::TensorSliceHÀ…Ïû¦PÀ–±Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ÿõ ÅĞIterator::ShuffleHÀ©óÑû¦P€¤èZ
+shapes	[784] [1]Z
+id1073099369826740550Z!
+	parent_id-1101087496620783914Z
+buffer_size500ZV
+	long_nameIIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::ShuffleZ
+typesdouble double"üõ ÅĞIterator::TensorSliceH€®°Òû¦P€›îZc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ÿõ ÅĞIterator::ShuffleHÀÍÛÕû¦PÀ¨¥Z
+shapes	[784] [1]Z
+id1073099369826740550Z!
+	parent_id-1101087496620783914Z
+buffer_size500ZV
+	long_nameIIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::ShuffleZ
+typesdouble double"üõ ÅĞIterator::TensorSliceH€Ò˜Öû¦P€¤èZ
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ÿõ ÅĞIterator::ShuffleH€ö€Úû¦P€›îZ
+shapes	[784] [1]Z
+id1073099369826740550Z!
+	parent_id-1101087496620783914Z
+buffer_size500ZV
+	long_nameIIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::ShuffleZ
+typesdouble double"üõ ÅĞIterator::TensorSliceHÀú½Úû¦P€’ôZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"ÿõ ÅĞIterator::ShuffleHÀ•¬İû¦PÀ¨¥Z
+shapes	[784] [1]Z
+id1073099369826740550Z!
+	parent_id-1101087496620783914Z
+buffer_size500ZV
+	long_nameIIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::ShuffleZ
+typesdouble double"üõ ÅĞIterator::TensorSliceH€šéİû¦P€¤èZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSlice"üõ ÅĞIterator::TensorSliceHÀÂâû¦PÀŸ«Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550"ÿõ ÅĞIterator::ShuffleHÀÂâû¦PÀŸ«Z
+shapes	[784] [1]Z
+id1073099369826740550Z!
+	parent_id-1101087496620783914Z
+buffer_size500ZV
+	long_nameIIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::ShuffleZ
+typesdouble double"ÿõ ÅĞIterator::ShuffleHÀæöåû¦P€›îZ
+buffer_size500ZV
+	long_nameIIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::ShuffleZ
+typesdouble doubleZ
+shapes	[784] [1]Z
+id1073099369826740550Z!
+	parent_id-1101087496620783914"üõ ÅĞIterator::TensorSliceHÀæöåû¦PÀ–±Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ÿõ ÅĞIterator::ShuffleHÀåèû¦PÀÃ“Z
+shapes	[784] [1]Z
+id1073099369826740550Z!
+	parent_id-1101087496620783914Z
+buffer_size500ZV
+	long_nameIIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::ShuffleZ
+typesdouble double"üõ ÅĞIterator::TensorSliceH€†¢éû¦PÀº™Z
+shapes	[784] [1]Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble double"üõ ÅĞIterator::TensorSliceHÀÉµğû¦PÀ–±Z
+id-6618618083537544016Z 
+	parent_id1073099369826740550Zc
+	long_nameVIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::Shuffle::TensorSliceZ
+typesdouble doubleZ
+shapes	[784] [1]"ÿõ ÅĞIterator::ShuffleHÀÉµğû¦PÀ–±Z
+shapes	[784] [1]Z
+id1073099369826740550Z!
+	parent_id-1101087496620783914Z
+buffer_size500ZV
+	long_nameIIterator::Model::MaxIntraOpParallelism::MemoryCacheImpl::BatchV2::ShuffleZ
+typesdouble double"-õ ÅĞTFE_DeleteTensorHandleH€ÿƒÕü¦PÀ–±",õ ÅĞTFE_DeleteTensorHandleHÀ¯Øü¦PÀ„=""õ ÅĞtf.constantHÀµ‘¿Ã§PÀî¢",õ ÅĞTFE_DeleteTensorHandleHÀƒÖÃ§PÀ„="0õ ÅĞTFE_Py_FastPathExecute_CH€ß˜ƒ×§PÀÑ§¡",õ ÅĞTFE_DeleteTensorHandleH€„×Ü§PÀ„="(õ ÅĞTFE_DeleteTensorHandleHÀ›»ØÜ§"0õ ÅĞEagerExecute: LogicalAndHÀÚ‘ßÜ§P€ Ò¿"5õ ÅĞEagerLocalExecute: LogicalAndHÀã‹àÜ§PÀ’›¾"3õ ÅĞValidateInputTypeAndPlacementH€ÂŞ´å§PÀ„="*õ ÅĞEagerKernelExecuteHÀÏ•¶å§P€™Úæ"Uõ ÅĞ
+LogicalAndHÀ‘ÿÙç§PÀ¥Ñ½Z"
+	long_nameLogicalAnd:LogicalAndZ
+is_eager1"(õ ÅĞconvert_to_tensorHÀ’ÖÌ‡¨PÀº™"/õ ÅĞTFE_Py_FastPathExecute_CHÀêª¢’¨PÀ…ë6"-õ ÅĞEagerExecute: IdentityHÀÔ»’¨P€…Ô"2õ ÅĞEagerLocalExecute: IdentityHÀİŠ¼’¨P€üÙ"3õ ÅĞValidateInputTypeAndPlacementH€¨ÅÑ’¨PÀ„=")õ ÅĞEagerKernelExecuteHÀµüÒ’¨P€¤è"Mõ ÅĞIdentityHÀÇğÔ’¨PÀ„=Z
+is_eager1Z
+	long_nameIdentity:Identity"0õ ÅĞTFE_Py_FastPathExecute_CH€ëÜ«•¨PÀ¦ˆî")õ ÅĞconvert_to_tensorH€³îî‚ªP€‰•ï"(õ ÅĞconvert_to_tensorHÀí¢ã…ªPÀÆ”0""õ ÅĞtf.constantHÀëÏğ…ªPÀ’‹",õ ÅĞTFE_DeleteTensorHandleH€ìæ‹†ªPÀ„="(õ ÅĞconvert_to_tensorH€Æ«•†ªPÀÁÀ""õ ÅĞtf.constantH€…‚œ†ªPÀŞ
+",õ ÅĞTFE_DeleteTensorHandleHÀÚ‰¥†ªPÀ„="(õ ÅĞconvert_to_tensorH€•£«†ªPÀ«¦-""õ ÅĞtf.constantH€ĞÓÌ†ªPÀÌ"(õ ÅĞTFE_DeleteTensorHandleHÀ“çÓ†ª"0õ ÅĞTFE_Py_ExecuteCancelableHÀÂ·¹‰ªP€¶óÍ"2õ ÅĞEagerExecute: WriteSummaryH€×•É‰ªPÀ˜›½"7õ ÅĞEagerLocalExecute: WriteSummaryHÀäÌÊ‰ªPÀ†§»"3õ ÅĞValidateInputTypeAndPlacementHÀµÄµªPÀ„="*õ ÅĞEagerKernelExecuteHÀ¾¾¶ªPÀ£»Î"[õ ÅĞWriteSummaryH€Ş„¨‘ªP€ò€ÛZ&
+	long_nameWriteSummary:WriteSummaryZ
+is_eager1".õ ÅĞTFE_DeleteTensorHandleHÀ®‡§ªP€Š±±",õ ÅĞTFE_DeleteTensorHandleHÀÁ²¿¨ªPÀ„="(õ ÅĞTFE_DeleteTensorHandleHÀÊ¬À¨ª""õ ÅĞtf.constantHÀ¿ßÌ¨ªP€¡"(õ ÅĞTFE_DeleteTensorHandleH€ÂÉÚ¨ª",õ ÅĞTFE_DeleteTensorHandleHÀ×â¨ªPÀ„=",õ ÅĞTFE_DeleteTensorHandleHÀ—Ñã¨ªP€‰z",õ ÅĞTFE_DeleteTensorHandleH€‘Áğ¨ªPÀ„="(õ ÅĞTFE_DeleteTensorHandleHÀ•şğ¨ª
