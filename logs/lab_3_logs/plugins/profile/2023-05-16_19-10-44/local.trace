@@ -1,0 +1,10 @@
+
+#õ
+	/host:CPUõóœ»óœ»"!õóœ»tf.constantHÀ‹â»PÀŸ½÷"+õóœ»TFE_DeleteTensorHandleH€ÃŒP€›î".õóœ»TFE_Py_FastPathExecute_CH€·šİPÀ¥õ¥"&õóœ»TFE_DeleteTensorHandleHÀ®·÷"&õóœ»TFE_DeleteTensorHandleHÀ·±ø".õóœ»EagerExecute: LogicalAndH€ÂùÄP€Îˆ¶"3õóœ»EagerLocalExecute: LogicalAndHÀÏ°ÆP€¼”´"1õóœ»ValidateInputTypeAndPlacementHÀ¹–ßPÀ„="(õóœ»EagerKernelExecuteH€ÇÍàP€·À˜"Sõóœ»
+LogicalAndHÀÚ®PÀä§ÄZ
+is_eager1Z"
+	long_nameLogicalAnd:LogicalAnd"&õóœ»convert_to_tensorHÀï±»P€¶Ü"-õóœ»TFE_Py_FastPathExecute_CH€à§ÇPÀ‡¾)"+õóœ»EagerExecute: IdentityH€”±ÚPÀÊº"0õóœ»EagerLocalExecute: IdentityHÀ˜îÚP€Æı"1õóœ»ValidateInputTypeAndPlacementHÀºƒìPÀ„="'õóœ»EagerKernelExecuteHÀÃıìPÀ–±"Kõóœ»IdentityH€Ñ´îPÀ„=Z
+	long_nameIdentity:IdentityZ
+is_eager1"-õóœ»TFE_Py_FastPathExecute_CHÀ”ÈõP€¶Ü"&õóœ»convert_to_tensorH€Ø½P€Æı"&õóœ»convert_to_tensorH€‡¾ÖPÀ²Í;" õóœ»tf.constantH€ ÙæPÀõÉ'"&õóœ»TFE_DeleteTensorHandleH€ˆìŒ"&õóœ»convert_to_tensorH€ÇÂ“PÀùï" õóœ»tf.constantHÀïç—PÀº™"&õóœ»TFE_DeleteTensorHandleHÀ¥Ä"&õóœ»convert_to_tensorHÀÉ¬¡P€Î" õóœ»tf.constantHÀô»³P€ÈĞ"*õóœ»TFE_DeleteTensorHandleHÀ³’ºPÀ„=".õóœ»TFE_Py_ExecuteCancelableH€€ ÂPÀÉ°Ç"0õóœ»EagerExecute: WriteSummaryH€ÚäËPÀæñ¼"5õóœ»EagerLocalExecute: WriteSummaryH€ãŞÌP€Ùº»"1õóœ»ValidateInputTypeAndPlacementHÀÛ²— PÀ„="(õóœ»EagerKernelExecuteH€éé˜ P€Êµî"Yõóœ»WriteSummaryHÀÿš› P€¦ÍêZ
+is_eager1Z&
+	long_nameWriteSummary:WriteSummary"*õóœ»TFE_DeleteTensorHandleH€òõ"PÀ„="*õóœ»TFE_DeleteTensorHandleHÀÿ¬"PÀ„="&õóœ»TFE_DeleteTensorHandleHÀÿ¬"" õóœ»tf.constantH€¸ó¢"P€½ƒ"*õóœ»TFE_DeleteTensorHandleHÀŞÅ´"PÀ„="*õóœ»TFE_DeleteTensorHandleH€´Í½"PÀ„="+õóœ»TFE_DeleteTensorHandleH€½Ç¾"PÀ·"*õóœ»TFE_DeleteTensorHandleH€»ôË"P€‰z"&õóœ»TFE_DeleteTensorHandleH€ÄîÌ"
