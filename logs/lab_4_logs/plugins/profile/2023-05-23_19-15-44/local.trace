@@ -1,0 +1,14 @@
+
+#õ
+	/host:CPUõ¶Ì¿¶Ì¿"õ¶Ì¿tf.constantH€£ÃGP€Æı"%õ¶Ì¿TFE_DeleteTensorHandleH€¼ŞW",õ¶Ì¿TFE_Py_FastPathExecute_CHÀ¡‡pP€…Ô"%õ¶Ì¿TFE_DeleteTensorHandleHÀ–º|")õ¶Ì¿TFE_DeleteTensorHandleH€›÷|PÀ„="-õ¶Ì¿EagerExecute: LogicalAndHÀº¢€P€ã¾
+"2õ¶Ì¿EagerLocalExecute: LogicalAndH€¿ß€PÀŞ
+"1õ¶Ì¿ValidateInputTypeAndPlacementH€ÑÓ‚PÀ„="'õ¶Ì¿EagerKernelExecuteH€ÚÍƒPÀÃ“"Rõ¶Ì¿
+LogicalAndHÀç„…PÀ±ŸZ
+is_eager1Z"
+	long_nameLogicalAnd:LogicalAnd"&õ¶Ì¿convert_to_tensorHÀşÌ¢PÀ–±"-õ¶Ì¿TFE_Py_FastPathExecute_CH€§ò¦PÀŞ
+"+õ¶Ì¿EagerExecute: IdentityHÀê…®PÀ–±"0õ¶Ì¿EagerLocalExecute: IdentityH€ïÂ®P€’ô"-õ¶Ì¿ValidateInputTypeAndPlacementHÀóÿ®"&õ¶Ì¿EagerKernelExecuteH€ø¼¯P€‰z"Gõ¶Ì¿IdentityHÀüù¯Z
+	long_nameIdentity:IdentityZ
+is_eager1"-õ¶Ì¿TFE_Py_FastPathExecute_CH€œ¥³P€’ô"&õ¶Ì¿convert_to_tensorH€£ÌÁPÀÃ“"&õ¶Ì¿convert_to_tensorHÀïÙÉP€ã¾
+" õ¶Ì¿tf.constantH€˜ÿÍPÀŸ«"&õ¶Ì¿convert_to_tensorHÀÛ’ÕP€ì¸" õ¶Ì¿tf.constantH€û½ØP€¶Ü"&õ¶Ì¿TFE_DeleteTensorHandleHÀ¬İİ"&õ¶Ì¿convert_to_tensorH€ÌˆáPÀÕ‡	" õ¶Ì¿tf.constantH€çöãP€¤è"*õ¶Ì¿TFE_DeleteTensorHandleHÀ†¢çPÀ„="-õ¶Ì¿TFE_Py_ExecuteCancelableHÀ¼şìP€õ²"/õ¶Ì¿EagerExecute: WriteSummaryHÀ×ìïPÀÕ‡	"4õ¶Ì¿EagerLocalExecute: WriteSummaryH€Ü©ğP€ÑÊ"1õ¶Ì¿ValidateInputTypeAndPlacementHÀàæğPÀ„="'õ¶Ì¿EagerKernelExecuteH€å£ñP€ÈĞ"Xõ¶Ì¿WriteSummaryHÀéàñP€¿ÖZ
+is_eager1Z&
+	long_nameWriteSummary:WriteSummary"*õ¶Ì¿TFE_DeleteTensorHandleHÀº«úPÀ„="&õ¶Ì¿TFE_DeleteTensorHandleH€¿èú"&õ¶Ì¿TFE_DeleteTensorHandleHÀÃ¥û" õ¶Ì¿tf.constantH€ãĞşPÀ–±"*õ¶Ì¿TFE_DeleteTensorHandleHÀ”ğƒPÀ„="&õ¶Ì¿TFE_DeleteTensorHandleHÀ”ğƒ"*õ¶Ì¿TFE_DeleteTensorHandleH€Æ‰PÀ„="&õ¶Ì¿TFE_DeleteTensorHandleHÀÊÌ‰

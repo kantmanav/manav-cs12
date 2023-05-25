@@ -1,0 +1,142 @@
+
+#õ
+	/host:CPUõ¶Ì¿¶Ì¿"õ¶Ì¿tf.constantH€Ç«KPÀ¦Ò")õ¶Ì¿TFE_DeleteTensorHandleHÀÛ‰[PÀ„="-õ¶Ì¿TFE_Py_FastPathExecute_CH€¢÷ªNPÀÄÁ="4õ¶Ì¿EagerExecute: DestroyResourceOpH€æ¡ÍNP€êå"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀóØÎNPÀÜ®"2õ¶Ì¿ValidateInputTypeAndPlacementHÀ—ÁÒNPÀ±Ÿ"'õ¶Ì¿EagerKernelExecuteHÀÖ—ÙNP€õ²"gõ¶Ì¿DestroyResourceOpH€ÿ¼İNP€¿ÖZ
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀëŒ„OPÀùï"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀ¼×ŒOP€¤è"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀ¼×ŒOP€¤è"-õ¶Ì¿ValidateInputTypeAndPlacementHÀÅÑO"'õ¶Ì¿EagerKernelExecuteH€ÊOP€’ô"gõ¶Ì¿DestroyResourceOpHÀÎËOPÀ·Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"-õ¶Ì¿TFE_Py_FastPathExecute_CH€¿ÁšOP€¶Ü"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀÕòœOP€›î"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀÕòœOP€›î"'õ¶Ì¿EagerKernelExecuteH€Ú¯OPÀ–±"-õ¶Ì¿ValidateInputTypeAndPlacementH€Ú¯O"gõ¶Ì¿DestroyResourceOpHÀŞìOPÀ·Z
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"-õ¶Ì¿TFE_Py_FastPathExecute_CH€½î§OPÀ¨¥"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀÓŸªOPÀ·"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀÓŸªOPÀ·"1õ¶Ì¿ValidateInputTypeAndPlacementHÀÓŸªOPÀ„="fõ¶Ì¿DestroyResourceOpH€ØÜªOP€‰zZ
+is_eager0Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"&õ¶Ì¿EagerKernelExecuteH€ØÜªOP€‰z"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀ­ä³OPÀº™"4õ¶Ì¿EagerExecute: DestroyResourceOpH€»›µOPÀ¨¥"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀ¿ØµOP€¤è"-õ¶Ì¿ValidateInputTypeAndPlacementHÀ¿ØµO"gõ¶Ì¿DestroyResourceOpH€Ä•¶OPÀŸ«Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager0"'õ¶Ì¿EagerKernelExecuteH€Ä•¶OPÀŸ«"-õ¶Ì¿TFE_Py_FastPathExecute_CH€°ÎÁOP€¤è"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀ½…ÃOPÀ–±"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€ÂÂÃOP€’ô"'õ¶Ì¿EagerKernelExecuteH€ÂÂÃOPÀ·"-õ¶Ì¿ValidateInputTypeAndPlacementH€ÂÂÃO"fõ¶Ì¿DestroyResourceOpHÀÆÿÃOP€‰zZ0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀ—ÊÌOPÀ¨¥"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€¥ÎOPÀ–±"4õ¶Ì¿EagerExecute: DestroyResourceOpH€¥ÎOPÀ–±"'õ¶Ì¿EagerKernelExecuteHÀ©¾ÎOP€’ô"-õ¶Ì¿ValidateInputTypeAndPlacementHÀ©¾ÎO"gõ¶Ì¿DestroyResourceOpH€®ûÎOPÀ·Z
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀƒƒØOP€¤è"4õ¶Ì¿EagerExecute: DestroyResourceOpH€‘ºÙOPÀ–±"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€‘ºÙOP€’ô"'õ¶Ì¿EagerKernelExecuteHÀ•÷ÙOPÀ·"-õ¶Ì¿ValidateInputTypeAndPlacementHÀ•÷ÙO"fõ¶Ì¿DestroyResourceOpH€š´ÚOP€‰zZ
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"-õ¶Ì¿TFE_Py_FastPathExecute_CH€ôøãOPÀ±Ÿ"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀ°åOPÀŸ«"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀ°åOPÀŸ«"'õ¶Ì¿EagerKernelExecuteH€†íåOP€›î"-õ¶Ì¿ValidateInputTypeAndPlacementH€†íåO"gõ¶Ì¿DestroyResourceOpHÀŠªæOPÀ–±Z
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"-õ¶Ì¿TFE_Py_FastPathExecute_CH€ò¥ñOPÀ¨¥"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀÿÜòOPÀ–±"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀÿÜòOPÀ–±"'õ¶Ì¿EagerKernelExecuteH€„šóOP€’ô"-õ¶Ì¿ValidateInputTypeAndPlacementH€„šóO"gõ¶Ì¿DestroyResourceOpHÀˆ×óOPÀ·Z
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀÙ¡üOP€­â"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀôÿOP€’ô"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀôÿOP€’ô"&õ¶Ì¿EagerKernelExecuteH€ùÌÿOP€‰z"-õ¶Ì¿ValidateInputTypeAndPlacementH€ùÌÿO"fõ¶Ì¿DestroyResourceOpHÀı‰€PPÀ„=Z
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"-õ¶Ì¿TFE_Py_FastPathExecute_CH€Ê—ˆPPÀ±Ÿ"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀ×Î‰PPÀŸ«"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀ×Î‰PPÀŸ«"'õ¶Ì¿EagerKernelExecuteH€Ü‹ŠPP€›î"-õ¶Ì¿ValidateInputTypeAndPlacementH€Ü‹ŠP"gõ¶Ì¿DestroyResourceOpHÀàÈŠPPÀ–±Z
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀº”PP€¤è"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀÌ–PPÀ·"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀÌ–PPÀ·"fõ¶Ì¿DestroyResourceOpH€Ñ¾–PP€‰zZ0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager0"&õ¶Ì¿EagerKernelExecuteH€Ñ¾–PP€‰z"-õ¶Ì¿ValidateInputTypeAndPlacementH€Ñ¾–P"-õ¶Ì¿TFE_Py_FastPathExecute_CH€´ı PP€¤è"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀÁ´¢PPÀ–±"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀÁ´¢PPÀ–±"'õ¶Ì¿EagerKernelExecuteH€Æñ¢PPÀ·"-õ¶Ì¿ValidateInputTypeAndPlacementH€Æñ¢P"fõ¶Ì¿DestroyResourceOpHÀÊ®£PP€‰zZ0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"-õ¶Ì¿TFE_Py_FastPathExecute_CH€—¼«PP€¤è"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀ¤ó¬PP€’ô"'õ¶Ì¿EagerKernelExecuteH€©°­PPÀ·"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€©°­PPÀ·"-õ¶Ì¿ValidateInputTypeAndPlacementH€©°­P"fõ¶Ì¿DestroyResourceOpHÀ­í­PP€‰zZ
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"-õ¶Ì¿TFE_Py_FastPathExecute_CH€úúµPPÀÁÀ"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀ‡²·PPÀ¯Ì"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀ‡²·PP€«"'õ¶Ì¿EagerKernelExecuteH€Œï·PPÀ¦Ò"gõ¶Ì¿DestroyResourceOpH€Œï·PP€¢•Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"-õ¶Ì¿ValidateInputTypeAndPlacementH€Œï·P"-õ¶Ì¿TFE_Py_FastPathExecute_CH€š½ÔPP€‡§"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀ¹è×PPÀçû
+"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀ¹è×PPÀçû
+"-õ¶Ì¿ValidateInputTypeAndPlacementH€¾¥ØP"gõ¶Ì¿DestroyResourceOpHÀÂâØPP€ÚÄ	Z
+is_eager0Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"'õ¶Ì¿EagerKernelExecuteHÀÂâØPP€ÚÄ	"-õ¶Ì¿TFE_Py_FastPathExecute_CH€é´êPPÀº™"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€û¨ìPP€¤è"4õ¶Ì¿EagerExecute: DestroyResourceOpH€û¨ìPP€¤è"'õ¶Ì¿EagerKernelExecuteHÀÿåìPPÀŸ«"-õ¶Ì¿ValidateInputTypeAndPlacementHÀÿåìP"gõ¶Ì¿DestroyResourceOpH€„£íPP€›îZ0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀô˜ùPP€­â"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀ‡üPPÀ·"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀ‡üPPÀ·"&õ¶Ì¿EagerKernelExecuteH€”ÄüPP€‰z"-õ¶Ì¿ValidateInputTypeAndPlacementH€”ÄüP"fõ¶Ì¿DestroyResourceOpHÀ˜ıPPÀ„=Z
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀéË…QPÀ¨¥"4õ¶Ì¿EagerExecute: DestroyResourceOpH€÷‚‡QPÀ–±"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀû¿‡QP€’ô"'õ¶Ì¿EagerKernelExecuteH€€ı‡QPÀ·"fõ¶Ì¿DestroyResourceOpH€€ı‡QP€‰zZ0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"-õ¶Ì¿ValidateInputTypeAndPlacementH€€ı‡Q"-õ¶Ì¿TFE_Py_FastPathExecute_CH€ÑÇQPÀ¨¥"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀŞş‘QPÀ–±"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€ã»’QP€’ô"-õ¶Ì¿ValidateInputTypeAndPlacementH€ã»’Q"gõ¶Ì¿DestroyResourceOpHÀçø’QPÀ·Z
+is_eager0Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"'õ¶Ì¿EagerKernelExecuteHÀçø’QPÀ·"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀ¸Ã›QP€¤è"4õ¶Ì¿EagerExecute: DestroyResourceOpH€ÆúœQPÀ–±"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€ÆúœQPÀ–±"'õ¶Ì¿EagerKernelExecuteHÀÊ·QPÀ·"-õ¶Ì¿ValidateInputTypeAndPlacementHÀÊ·Q"fõ¶Ì¿DestroyResourceOpH€ÏôQP€‰zZ0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀ›‚¦QP€¤è"4õ¶Ì¿EagerExecute: DestroyResourceOpH€©¹§QP€’ô"'õ¶Ì¿EagerKernelExecuteHÀ­ö§QPÀ·"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀ­ö§QPÀ·"-õ¶Ì¿ValidateInputTypeAndPlacementHÀ­ö§Q"fõ¶Ì¿DestroyResourceOpH€²³¨QPÀ„=Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀşÀ°QP€õ²"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€Œø±QP€ã¾
+"4õ¶Ì¿EagerExecute: DestroyResourceOpH€Œø±QP€ã¾
+"'õ¶Ì¿EagerKernelExecuteHÀµ²QPÀŞ
+"-õ¶Ì¿ValidateInputTypeAndPlacementHÀµ²Q"gõ¶Ì¿DestroyResourceOpH€•ò²QPÀÕ‡	Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀÄ¾ÅQPÀ±Ÿ"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀß¬ÈQPÀ–±"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀß¬ÈQP€’ô"'õ¶Ì¿EagerKernelExecuteH€äéÈQPÀ·"-õ¶Ì¿ValidateInputTypeAndPlacementH€äéÈQ"fõ¶Ì¿DestroyResourceOpHÀè¦ÉQP€‰zZ
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀ¹ñÑQP€¿Ö"4õ¶Ì¿EagerExecute: DestroyResourceOpH€Ç¨ÓQPÀ±Ÿ"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀËåÓQP€­â"-õ¶Ì¿ValidateInputTypeAndPlacementHÀËåÓQ"gõ¶Ì¿DestroyResourceOpH€Ğ¢ÔQP€¤èZ
+is_eager0Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"'õ¶Ì¿EagerKernelExecuteH€Ğ¢ÔQP€¤è"-õ¶Ì¿TFE_Py_FastPathExecute_CH€¼ÛßQPÀ¨¥"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€ÎÏáQP€’ô"4õ¶Ì¿EagerExecute: DestroyResourceOpH€ÎÏáQP€’ô"1õ¶Ì¿ValidateInputTypeAndPlacementH€ÎÏáQPÀ„="gõ¶Ì¿DestroyResourceOpHÀÒŒâQPÀ·Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager0"'õ¶Ì¿EagerKernelExecuteHÀÒŒâQPÀ·"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀ¬ÑëQPÀ±Ÿ"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀÇ¿îQP€’ô"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀÇ¿îQP€’ô"'õ¶Ì¿EagerKernelExecuteH€ÌüîQPÀ·"-õ¶Ì¿ValidateInputTypeAndPlacementH€ÌüîQ"fõ¶Ì¿DestroyResourceOpHÀĞ¹ïQPÀ„=Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1".õ¶Ì¿TFE_Py_FastPathExecute_CH€¦ÁøQP€£ÌÁ":õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€¸µúQP€ˆŞ¾"5õ¶Ì¿EagerExecute: DestroyResourceOpH€¸µúQP€ˆŞ¾"1õ¶Ì¿ValidateInputTypeAndPlacementH€¸µúQPÀ„="(õ¶Ì¿EagerKernelExecuteHÀ¼òúQPÀƒ¡¾"hõ¶Ì¿DestroyResourceOpHÀ¼òúQPÀú¦½Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"-õ¶Ì¿TFE_Py_FastPathExecute_CH€¾ÀÆSP€™›"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀİëÉSP€õ²"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€¼íÓSPÀ–±"'õ¶Ì¿EagerKernelExecuteHÀÀªÔSP€’ô"-õ¶Ì¿ValidateInputTypeAndPlacementHÀÀªÔS"fõ¶Ì¿DestroyResourceOpH€ÅçÔSP€‰zZ0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀ¬ãßSP€­â"4õ¶Ì¿EagerExecute: DestroyResourceOpH€ºšáSPÀŸ«"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀ¾×áSP€›î"1õ¶Ì¿ValidateInputTypeAndPlacementHÀ¾×áSPÀ„="'õ¶Ì¿EagerKernelExecuteH€Ã”âSPÀ–±"gõ¶Ì¿DestroyResourceOpH€Ã”âSP€’ôZ0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"-õ¶Ì¿TFE_Py_FastPathExecute_CH€ÙëSP€¤è"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€¯ÍíSPÀ·"4õ¶Ì¿EagerExecute: DestroyResourceOpH€¯ÍíSPÀ·"1õ¶Ì¿ValidateInputTypeAndPlacementH€¯ÍíSPÀ„="fõ¶Ì¿DestroyResourceOpHÀ³ŠîSP€‰zZ
+is_eager0Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"&õ¶Ì¿EagerKernelExecuteHÀ³ŠîSP€‰z".õ¶Ì¿TFE_Py_FastPathExecute_CHÀ–ÉøSPÀÔëÆ"5õ¶Ì¿EagerExecute: DestroyResourceOpH€¤€úSPÀÂ÷Ä":õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀ¨½úSP€¾ºÄ"1õ¶Ì¿ValidateInputTypeAndPlacementHÀ¨½úSPÀ„="(õ¶Ì¿EagerKernelExecuteH€­úúSP€µÀÃ"hõ¶Ì¿DestroyResourceOpH€­úúSP€µÀÃZ0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀÒ°ÊUP€­â"4õ¶Ì¿EagerExecute: DestroyResourceOpH€éáÌUPÀ–±"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀíÍUPÀ·"1õ¶Ì¿ValidateInputTypeAndPlacementHÀíÍUPÀ„="&õ¶Ì¿EagerKernelExecuteH€òÛÍUP€‰z"fõ¶Ì¿DestroyResourceOpHÀö˜ÎUPÀ„=Z
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"-õ¶Ì¿TFE_Py_FastPathExecute_CH€Ã¦ÖUP€¤è"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀĞİ×UP€’ô"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€ÕšØUPÀ·"1õ¶Ì¿ValidateInputTypeAndPlacementH€ÕšØUPÀ„="fõ¶Ì¿DestroyResourceOpHÀÙ×ØUP€‰zZ0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager0"&õ¶Ì¿EagerKernelExecuteHÀÙ×ØUP€‰z"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀª¢áUP€­â"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀÅäUP€’ô"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀÅäUP€’ô"&õ¶Ì¿EagerKernelExecuteH€ÊÍäUP€‰z"-õ¶Ì¿ValidateInputTypeAndPlacementH€ÊÍäU"fõ¶Ì¿DestroyResourceOpHÀÎŠåUPÀ„=Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀ±ÉïUPÀçû
+"4õ¶Ì¿EagerExecute: DestroyResourceOpH€¿€ñUPÀÕ‡	"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀÃ½ñUPÀÌ"-õ¶Ì¿ValidateInputTypeAndPlacementHÀÃ½ñU"gõ¶Ì¿DestroyResourceOpH€ÈúñUP€ÈĞZ0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager0"'õ¶Ì¿EagerKernelExecuteH€ÈúñUP€ÈĞ"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀåÒ‚VP€­â"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€üƒ…VP€’ô"4õ¶Ì¿EagerExecute: DestroyResourceOpH€üƒ…VP€’ô"'õ¶Ì¿EagerKernelExecuteHÀ€Á…VPÀ·"-õ¶Ì¿ValidateInputTypeAndPlacementHÀ€Á…V"fõ¶Ì¿DestroyResourceOpH€…ş…VP€‰zZ
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"-õ¶Ì¿TFE_Py_FastPathExecute_CH€ÖÈVP€¤è"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀãÿVP€’ô"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀãÿVP€’ô"'õ¶Ì¿EagerKernelExecuteH€è¼VPÀ·"-õ¶Ì¿ValidateInputTypeAndPlacementH€è¼V"fõ¶Ì¿DestroyResourceOpHÀìùVP€‰zZ0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"-õ¶Ì¿TFE_Py_FastPathExecute_CH€¹‡™VPÀŸ«"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀÆ¾šVPÀ·"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀÆ¾šVPÀ·"&õ¶Ì¿EagerKernelExecuteH€ËûšVP€‰z"-õ¶Ì¿ValidateInputTypeAndPlacementH€ËûšV"fõ¶Ì¿DestroyResourceOpHÀÏ¸›VPÀ„=Z
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"+õ¶Ì¿TFE_DeleteTensorHandleH€á¹êYPÀ·"*õ¶Ì¿TFE_DeleteTensorHandleHÀÈµõYP€‰z"*õ¶Ì¿TFE_DeleteTensorHandleH€úÔúYP€‰z"*õ¶Ì¿TFE_DeleteTensorHandleHÀ¢úşYPÀ„="*õ¶Ì¿TFE_DeleteTensorHandleH€Â¥‚ZP€‰z"*õ¶Ì¿TFE_DeleteTensorHandleHÀØÖ„ZPÀ„="&õ¶Ì¿TFE_DeleteTensorHandleH€ï‡‡Z"*õ¶Ì¿TFE_DeleteTensorHandleH€üˆZP€‰z"*õ¶Ì¿TFE_DeleteTensorHandleHÀ—­‹ZPÀ„="*õ¶Ì¿TFE_DeleteTensorHandleH€®ŞZPÀ„="*õ¶Ì¿TFE_DeleteTensorHandleHÀ»•ZPÀ„="+õ¶Ì¿TFE_DeleteTensorHandleHÀÍ‰‘ZP€ÈĞ"*õ¶Ì¿TFE_DeleteTensorHandleHÀ•Ú˜ZP€‰z"+õ¶Ì¿TFE_DeleteTensorHandleHÀÂ¼ZPÀŸ«"*õ¶Ì¿TFE_DeleteTensorHandleHÀ®õ¨ZPÀ„="*õ¶Ì¿TFE_DeleteTensorHandleH€é¯ZPÀ„="*õ¶Ì¿TFE_DeleteTensorHandleH€–ñ³ZPÀ„="*õ¶Ì¿TFE_DeleteTensorHandleH€¨åµZPÀ„="*õ¶Ì¿TFE_DeleteTensorHandleHÀÇ¹ZPÀ„="&õ¶Ì¿TFE_DeleteTensorHandleHÀÙ„»Z"*õ¶Ì¿TFE_DeleteTensorHandleHÀëø¼ZPÀ„="*õ¶Ì¿TFE_DeleteTensorHandleH€ù¯¾ZPÀ„="*õ¶Ì¿TFE_DeleteTensorHandleHÀáÀZPÀ„="+õ¶Ì¿TFE_DeleteTensorHandleHÀªÏÃZPÀº™"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀ¯£ßZPÀ”Ş"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀ‰èèZPÀ±Ÿ"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€¥éZP€­â"-õ¶Ì¿ValidateInputTypeAndPlacementHÀ›ÜêZ"'õ¶Ì¿EagerKernelExecuteH€ ™ëZP€›î"gõ¶Ì¿DestroyResourceOpH€©“ìZPÀ·Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"*õ¶Ì¿TFE_DeleteTensorHandleHÀşšõZPÀ„="*õ¶Ì¿TFE_DeleteTensorHandleHÀ½ñûZPÀ„="*õ¶Ì¿TFE_DeleteTensorHandleH€Šÿƒ[PÀ„="*õ¶Ì¿TFE_DeleteTensorHandleH€‘¸†]P€‰z"*õ¶Ì¿TFE_DeleteTensorHandleH€¬¦‰]PÀ„="*õ¶Ì¿TFE_DeleteTensorHandleHÀÂ×‹]PÀ„="*õ¶Ì¿TFE_DeleteTensorHandleHÀİÅ]PÀ„="*õ¶Ì¿TFE_DeleteTensorHandleHÀ“¢”]PÀ„="*õ¶Ì¿TFE_DeleteTensorHandleHÀÀ„™]PÀ„="*õ¶Ì¿TFE_DeleteTensorHandleHÀÒøš]PÀ„="*õ¶Ì¿TFE_DeleteTensorHandleHÀíæ]PÀ„="+õ¶Ì¿TFE_DeleteTensorHandleH€ğĞ«]P€ÈĞ"-õ¶Ì¿TFE_Py_FastPathExecute_CH€¤Ú¾]PÀçû
+"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀÕùÃ]PÀ±Ÿ"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€Ú¶Ä]P€­â"-õ¶Ì¿ValidateInputTypeAndPlacementHÀŞóÄ]"'õ¶Ì¿EagerKernelExecuteHÀğçÆ]P€’ô"gõ¶Ì¿DestroyResourceOpH€õ¤Ç]PÀ·Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"&õ¶Ì¿TFE_DeleteTensorHandleHÀÁ²Ï]"*õ¶Ì¿TFE_DeleteTensorHandleH€áİÒ]PÀ„="*õ¶Ì¿TFE_DeleteTensorHandleH€…ÆÖ]PÀ„="*õ¶Ì¿TFE_DeleteTensorHandleHÀ›÷Ø]PÀ„="*õ¶Ì¿TFE_DeleteTensorHandleHÀ­ëÚ]PÀ„="&õ¶Ì¿TFE_DeleteTensorHandleH€»¢Ü]"*õ¶Ì¿TFE_DeleteTensorHandleHÀÈÙİ]PÀ„="-õ¶Ì¿TFE_Py_FastPathExecute_CH€•çå]PÀ±Ÿ"4õ¶Ì¿EagerExecute: DestroyResourceOpH€°Õè]P€’ô"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀ´’é]PÀ·"&õ¶Ì¿EagerKernelExecuteH€¹Ïé]P€‰z"-õ¶Ì¿ValidateInputTypeAndPlacementH€¹Ïé]"fõ¶Ì¿DestroyResourceOpHÀ½Œê]PÀ„=Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"*õ¶Ì¿TFE_DeleteTensorHandleH€ï«ï]PÀ„="-õ¶Ì¿TFE_Py_FastPathExecute_CH€®‚ö]P€¶Ü"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀÍ­ù]P€’ô"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€Òêù]PÀ·"&õ¶Ì¿EagerKernelExecuteHÀÖ§ú]P€‰z"-õ¶Ì¿ValidateInputTypeAndPlacementHÀÖ§ú]"fõ¶Ì¿DestroyResourceOpH€Ûäú]PÀ„=Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"*õ¶Ì¿TFE_DeleteTensorHandleH€ˆÇÿ]PÀ„="-õ¶Ì¿TFE_Py_FastPathExecute_CH€Ç†^P€¤è"4õ¶Ì¿EagerExecute: DestroyResourceOpH€Ù‘ˆ^PÀ·"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€Ù‘ˆ^PÀ·"&õ¶Ì¿EagerKernelExecuteHÀİÎˆ^P€‰z"fõ¶Ì¿DestroyResourceOpHÀİÎˆ^PÀ„=Z
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"-õ¶Ì¿ValidateInputTypeAndPlacementHÀİÎˆ^"*õ¶Ì¿TFE_DeleteTensorHandleHÀŠ±^PÀ„="-õ¶Ì¿TFE_Py_FastPathExecute_CH€ÅÊ“^P€¤è"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€×¾•^PÀ·"4õ¶Ì¿EagerExecute: DestroyResourceOpH€×¾•^PÀ·"&õ¶Ì¿EagerKernelExecuteHÀÛû•^P€‰z"-õ¶Ì¿ValidateInputTypeAndPlacementHÀÛû•^"fõ¶Ì¿DestroyResourceOpH€à¸–^PÀ„=Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"*õ¶Ì¿TFE_DeleteTensorHandleH€„¡š^PÀ„="-õ¶Ì¿TFE_Py_FastPathExecute_CHÀ¾º ^PÀŸ«"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀĞ®¢^PÀ·"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀĞ®¢^PÀ·"1õ¶Ì¿ValidateInputTypeAndPlacementHÀĞ®¢^PÀ„="&õ¶Ì¿EagerKernelExecuteH€Õë¢^PÀ„="fõ¶Ì¿DestroyResourceOpH€Õë¢^PÀ„=Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"*õ¶Ì¿TFE_DeleteTensorHandleHÀı§^PÀ„="-õ¶Ì¿TFE_Py_FastPathExecute_CHÀ³í¬^PÀŸ«"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀÅá®^PÀ·"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀÅá®^PÀ·"&õ¶Ì¿EagerKernelExecuteH€Ê¯^P€‰z"-õ¶Ì¿ValidateInputTypeAndPlacementH€Ê¯^"bõ¶Ì¿DestroyResourceOpHÀÎÛ¯^Z
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"*õ¶Ì¿TFE_DeleteTensorHandleHÀòÃ³^PÀ„="*õ¶Ì¿TFE_DeleteTensorHandleHÀ„¸µ^PÀ„="*õ¶Ì¿TFE_DeleteTensorHandleHÀ²¶^PÀ„="*õ¶Ì¿TFE_DeleteTensorHandleH€’ï¶^PÀ„="*õ¶Ì¿TFE_DeleteTensorHandleHÀ–¬·^PÀ„="&õ¶Ì¿TFE_DeleteTensorHandleHÀŸ¦¸^"+õ¶Ì¿TFE_DeleteTensorHandleHÀ¨ ¹^PÀçû
+"+õ¶Ì¿TFE_DeleteTensorHandleHÀ”ÙÄ^P€üÙ"*õ¶Ì¿TFE_DeleteTensorHandleH€•ğß^PÀ„="+õ¶Ì¿TFE_DeleteTensorHandleHÀ™­à^PÀŞ
+"&õ¶Ì¿TFE_DeleteTensorHandleHÀ…æë^"+õ¶Ì¿TFE_DeleteTensorHandleHÀàì^PÀÌ"+õ¶Ì¿TFE_DeleteTensorHandleH€äçõ^P€›î"*õ¶Ì¿TFE_DeleteTensorHandleHÀƒ“ù^PÀ„="+õ¶Ì¿TFE_DeleteTensorHandleH€ˆĞù^PÀÃ“"*õ¶Ì¿TFE_DeleteTensorHandleHÀÔİ_PÀ„=",õ¶Ì¿TFE_DeleteTensorHandleH€Ùš‚_P€Ş Ë"*õ¶Ì¿TFE_DeleteTensorHandleHÀøûádPÀ„="*õ¶Ì¿TFE_DeleteTensorHandleH€³•èdP€‰z"&õ¶Ì¿TFE_DeleteTensorHandleHÀÉÆêd"&õ¶Ì¿TFE_DeleteTensorHandleHÀÛºìd"&õ¶Ì¿TFE_DeleteTensorHandleH€éñíd"*õ¶Ì¿TFE_DeleteTensorHandleH€ûåïdPÀ„="-õ¶Ì¿TFE_Py_FastPathExecute_CHÀÅ …eP€´‰"4õ¶Ì¿EagerExecute: DestroyResourceOpH€­œeP€¿Ö"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀ±ÙePÀº™"1õ¶Ì¿ValidateInputTypeAndPlacementH€¿’ePÀ„="'õ¶Ì¿EagerKernelExecuteH€ÈŠ“eP€¤è"gõ¶Ì¿DestroyResourceOpHÀÕÁ”eP€’ôZ
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"*õ¶Ì¿TFE_DeleteTensorHandleHÀ¸€ŸeP€‰z"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀ‰Ë§ePÀ¨¥"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀ›¿©eP€’ô"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€ ü©ePÀ·"-õ¶Ì¿ValidateInputTypeAndPlacementH€ ü©e"fõ¶Ì¿DestroyResourceOpHÀ¤¹ªeP€‰zZ0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager0"&õ¶Ì¿EagerKernelExecuteHÀ¤¹ªeP€‰z"*õ¶Ì¿TFE_DeleteTensorHandleH€ÖØ¯ePÀ„="-õ¶Ì¿TFE_Py_FastPathExecute_CH€•¯¶eP€¤è"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀ¢æ·eP€’ô"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀ¢æ·eP€’ô"'õ¶Ì¿EagerKernelExecuteH€§£¸ePÀ·"-õ¶Ì¿ValidateInputTypeAndPlacementH€§£¸e"fõ¶Ì¿DestroyResourceOpHÀ«à¸eP€‰zZ0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"*õ¶Ì¿TFE_DeleteTensorHandleH€İÿ½ePÀ„="-õ¶Ì¿TFE_Py_FastPathExecute_CHÀ—™ÄePÀÃ“"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€¥ĞÅeP€’ô"4õ¶Ì¿EagerExecute: DestroyResourceOpH€¥ĞÅeP€’ô"'õ¶Ì¿EagerKernelExecuteHÀ©ÆePÀ·"-õ¶Ì¿ValidateInputTypeAndPlacementHÀ©Æe"fõ¶Ì¿DestroyResourceOpH€®ÊÆePÀ„=Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"*õ¶Ì¿TFE_DeleteTensorHandleHÀú×ÎePÀ„="-õ¶Ì¿TFE_Py_FastPathExecute_CH€µñÔePÀº™"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€ÙÙØeP€’ô"4õ¶Ì¿EagerExecute: DestroyResourceOpH€ÙÙØeP€’ô"'õ¶Ì¿EagerKernelExecuteHÀİ–ÙePÀ·"-õ¶Ì¿ValidateInputTypeAndPlacementHÀİ–Ùe"fõ¶Ì¿DestroyResourceOpH€âÓÙeP€‰zZ
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"*õ¶Ì¿TFE_DeleteTensorHandleH€˜°ßePÀ„="-õ¶Ì¿TFE_Py_FastPathExecute_CHÀÒÉåeP€¤è"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀä½çePÀ·"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀä½çePÀ·"&õ¶Ì¿EagerKernelExecuteH€éúçeP€‰z"-õ¶Ì¿ValidateInputTypeAndPlacementH€éúçe"fõ¶Ì¿DestroyResourceOpHÀí·èePÀ„=Z
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"*õ¶Ì¿TFE_DeleteTensorHandleH€–İìePÀ„="+õ¶Ì¿TFE_DeleteTensorHandleH€¨ÑîePÀ¯Ì"+õ¶Ì¿TFE_DeleteTensorHandleHÀà—‚fPÀ‚ê"*õ¶Ì¿TFE_DeleteTensorHandleHÀç¾fPÀ„="+õ¶Ì¿TFE_DeleteTensorHandleH€ìûfPÀå¨"*õ¶Ì¿TFE_DeleteTensorHandleHÀÚªfPÀ„="+õ¶Ì¿TFE_DeleteTensorHandleH€èÕ«fPÀ¦Ò"+õ¶Ì¿TFE_DeleteTensorHandleH€“å½fPÀØ"*õ¶Ì¿TFE_DeleteTensorHandleH€µúÎfPÀ„=",õ¶Ì¿TFE_DeleteTensorHandleHÀ¹·ÏfPÀÑê"&õ¶Ì¿TFE_DeleteTensorHandleH€”œîg"+õ¶Ì¿TFE_DeleteTensorHandleH€–ïgP€¨—c",õ¶Ì¿TFE_DeleteTensorHandleH€Î§ÓhPÀÀ­Ì"&õ¶Ì¿TFE_DeleteTensorHandleHÀ—Ï k",õ¶Ì¿TFE_DeleteTensorHandleH€œŒ¡kP€®«©"*õ¶Ì¿TFE_DeleteTensorHandleHÀàèÌnPÀ„="+õ¶Ì¿TFE_DeleteTensorHandleHÀéâÍnP€­â"*õ¶Ì¿TFE_DeleteTensorHandleHÀ¸ÚãnPÀ„="+õ¶Ì¿TFE_DeleteTensorHandleH€üíênP€¤è"*õ¶Ì¿TFE_DeleteTensorHandleHÀ¶‡ñnP€‰z"*õ¶Ì¿TFE_DeleteTensorHandleHÀãéõnP€‰z"*õ¶Ì¿TFE_DeleteTensorHandleHÀõİ÷nPÀ„="*õ¶Ì¿TFE_DeleteTensorHandleH€•‰ûnPÀ„="-õ¶Ì¿TFE_Py_FastPathExecute_CH€šİ–oPÀÜ®"4õ¶Ì¿EagerExecute: DestroyResourceOpH€¡„¥oPÀÌ"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€ªş¥oPÀÃ“"1õ¶Ì¿ValidateInputTypeAndPlacementH€¼ò§oPÀ„="'õ¶Ì¿EagerKernelExecuteH€Åì¨oPÀ¨¥"gõ¶Ì¿DestroyResourceOpHÀÒ£ªoP€’ôZ0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"*õ¶Ì¿TFE_DeleteTensorHandleH€Ã™¶oPÀ„="-õ¶Ì¿TFE_Py_FastPathExecute_CH€¦ØÀoP€¶Ü"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀ¼‰ÃoP€›î"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€ÁÆÃoPÀ–±"'õ¶Ì¿EagerKernelExecuteHÀÅƒÄoP€’ô"-õ¶Ì¿ValidateInputTypeAndPlacementHÀÅƒÄo"fõ¶Ì¿DestroyResourceOpH€ÊÀÄoP€‰zZ
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"*õ¶Ì¿TFE_DeleteTensorHandleHÀ„ÚÊoPÀ„="-õ¶Ì¿TFE_Py_FastPathExecute_CH€ÚáÓoP€¤è"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€ìÕÕoP€’ô"4õ¶Ì¿EagerExecute: DestroyResourceOpH€ìÕÕoP€’ô"-õ¶Ì¿ValidateInputTypeAndPlacementHÀğ’Öo"&õ¶Ì¿EagerKernelExecuteH€õÏÖoP€‰z"fõ¶Ì¿DestroyResourceOpH€õÏÖoPÀ„=Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"*õ¶Ì¿TFE_DeleteTensorHandleHÀ¦ïÛoPÀ„="-õ¶Ì¿TFE_Py_FastPathExecute_CH€ê‚ãoP€¤è"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀ÷¹äoP€’ô"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€üöäoPÀ·"&õ¶Ì¿EagerKernelExecuteHÀ€´åoP€‰z"-õ¶Ì¿ValidateInputTypeAndPlacementHÀ€´åo"bõ¶Ì¿DestroyResourceOpH€…ñåoZ
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"*õ¶Ì¿TFE_DeleteTensorHandleHÀ­–êoPÀ„="-õ¶Ì¿TFE_Py_FastPathExecute_CHÀììğoP€¤è"9õ¶Ì¿$EagerLocalExecute: DestroyResourceOpHÀşàòoPÀ·"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀşàòoPÀ·"&õ¶Ì¿EagerKernelExecuteH€ƒóoP€‰z"-õ¶Ì¿ValidateInputTypeAndPlacementH€ƒóo"bõ¶Ì¿DestroyResourceOpHÀ‡ÛóoZ
+is_eager1Z0
+	long_name#DestroyResourceOp:DestroyResourceOp"*õ¶Ì¿TFE_DeleteTensorHandleH€°€øoPÀ„="-õ¶Ì¿TFE_Py_FastPathExecute_CH€ïÖşoPÀŸ«"4õ¶Ì¿EagerExecute: DestroyResourceOpHÀü€pPÀ·"&õ¶Ì¿EagerKernelExecuteH€Ë€pP€‰z"8õ¶Ì¿$EagerLocalExecute: DestroyResourceOpH€Ë€pP€‰z"-õ¶Ì¿ValidateInputTypeAndPlacementH€Ë€p"fõ¶Ì¿DestroyResourceOpHÀ…ˆpPÀ„=Z0
+	long_name#DestroyResourceOp:DestroyResourceOpZ
+is_eager1"*õ¶Ì¿TFE_DeleteTensorHandleH€®­…pPÀ„="+õ¶Ì¿TFE_DeleteTensorHandleHÀÄŞ‡pPÀùï"+õ¶Ì¿TFE_DeleteTensorHandleH€ÇÈ•pP€ã¾
+"*õ¶Ì¿TFE_DeleteTensorHandleHÀ®Ä pPÀ„="+õ¶Ì¿TFE_DeleteTensorHandleHÀ·¾¡pP€áë"&õ¶Ì¿TFE_DeleteTensorHandleHÀ¡¤ºp"+õ¶Ì¿TFE_DeleteTensorHandleHÀª»pPÀïĞO",õ¶Ì¿TFE_DeleteTensorHandleH€£é‹qP€û½Ø"*õ¶Ì¿TFE_DeleteTensorHandleHÀ¢äärPÀ„="+õ¶Ì¿TFE_DeleteTensorHandleH€§¡årPÀ¯Ì"*õ¶Ì¿TFE_DeleteTensorHandleHÀßçørP€‰z"+õ¶Ì¿TFE_DeleteTensorHandleH€íúrPÀøÊP",õ¶Ì¿TFE_DeleteTensorHandleH€ê¦ËsPÀæñ¼"+õ¶Ì¿TFE_DeleteTensorHandleHÀë†‹wPÀ·",õ¶Ì¿TFE_DeleteTensorHandleH€ù½ŒwP€Ç"*õ¶Ì¿TFE_DeleteTensorHandleH€šÀÕyP€‰z"+õ¶Ì¿TFE_DeleteTensorHandleHÀ§÷ÖyPÀ‰‘"-õ¶Ì¿TFE_Py_FastPathExecute_CH€óß¢zPÀ¿í!"*õ¶Ì¿TFE_DeleteTensorHandleHÀ‡¾²zPÀ„="&õ¶Ì¿TFE_DeleteTensorHandleH€Œû²z"-õ¶Ì¿EagerExecute: LogicalAndHÀ¢¬µzP€‡§"2õ¶Ì¿EagerLocalExecute: LogicalAndHÀ«¦¶zPÀçû
+"1õ¶Ì¿ValidateInputTypeAndPlacementHÀ½š¸zPÀ„="'õ¶Ì¿EagerKernelExecuteH€ËÑ¹zP€ÈĞ"Rõ¶Ì¿
+LogicalAndHÀá‚¼zP€¤èZ
+is_eager1Z"
+	long_nameLogicalAnd:LogicalAnd"&õ¶Ì¿convert_to_tensorH€òºæzPÀ¨¥"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀµÎízP€ÑÊ"+õ¶Ì¿EagerExecute: IdentityH€çíòzP€›î"0õ¶Ì¿EagerLocalExecute: IdentityHÀëªózPÀ–±"1õ¶Ì¿ValidateInputTypeAndPlacementH€ğçózPÀ„="'õ¶Ì¿EagerKernelExecuteHÀô¤ôzPÀ·"Kõ¶Ì¿IdentityH€ùáôzPÀ„=Z
+is_eager1Z
+	long_nameIdentity:Identity"-õ¶Ì¿TFE_Py_FastPathExecute_CHÀ¡‡ùzPÀ·"&õ¶Ì¿convert_to_tensorHÀÃœŠ{P€ì¸"&õ¶Ì¿convert_to_tensorH€½Œ—{P€™›" õ¶Ì¿tf.constantH€×Ÿ{P€­â"&õ¶Ì¿convert_to_tensorHÀãŞ¨{P€½ƒ" õ¶Ì¿tf.constantHÀ‡Ç¬{PÀ‚ê"*õ¶Ì¿TFE_DeleteTensorHandleH€·¹{PÀ„="&õ¶Ì¿convert_to_tensorHÀ©Ü½{PÀÕ‡	" õ¶Ì¿tf.constantHÀÄÊÀ{P€¤è"*õ¶Ì¿TFE_DeleteTensorHandleH€äõÃ{PÀ„="-õ¶Ì¿TFE_Py_ExecuteCancelableH€£ÌÊ{PÀ‹ä"/õ¶Ì¿EagerExecute: WriteSummaryH€¾ºÍ{P€ì¸"4õ¶Ì¿EagerLocalExecute: WriteSummaryHÀÂ÷Í{PÀçû
+"-õ¶Ì¿ValidateInputTypeAndPlacementHÀËñÎ{"'õ¶Ì¿EagerKernelExecuteH€Ğ®Ï{P€ÚÄ	"Xõ¶Ì¿WriteSummaryHÀÔëÏ{P€ÑÊZ&
+	long_nameWriteSummary:WriteSummaryZ
+is_eager1"*õ¶Ì¿TFE_DeleteTensorHandleHÀ·ªÚ{PÀ„="*õ¶Ì¿TFE_DeleteTensorHandleH€¼çÚ{PÀ„="&õ¶Ì¿TFE_DeleteTensorHandleH€¼çÚ{" õ¶Ì¿tf.constantHÀäŒß{PÀ–±"&õ¶Ì¿TFE_DeleteTensorHandleHÀšéä{"*õ¶Ì¿TFE_DeleteTensorHandleH€Ÿ¦å{PÀ„="*õ¶Ì¿TFE_DeleteTensorHandleH€ğğí{PÀ„="&õ¶Ì¿TFE_DeleteTensorHandleH€ùêî{
